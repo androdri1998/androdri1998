@@ -10,15 +10,8 @@ Soft skills: English Fluency, autonomy, good communication, team work, share kno
 
 Hard skills: 
 Programming Languages, JavaScript (JS), TypeScript, PHP Language, PHP5 and Go lang.
-
-Front end Development, React.js, Vue.js, Next.js, React native, Angular.js, Laravel, Svelte, HTML, HTML5, CSS, CSS3, SASS, JQuery, SEO, Micro-frontends, Responsive Layouts, responsivity, UI and UX Design.
-
-Back end Development, Node.js, Micro-serviços, AWS, Cloud, object oriented programming (POO), Algorithms, Data Structures, Messaging, RabbitMQ, Event Driven Architecture, System Design and PHP system web development.
-
 Databases, database Mysql, MariaDB, SQL, PostgreSQL and Database Design.
-
 Code quality, code review, unit tests, integration tests, A/B tests, Feature Flag, Design Patterns, Jira, Git, Git Flow, SOLID principles and Clean Code.
-
 CI/CD Environment, Docker, Github Actions and Jenkins.
 
 <!--
