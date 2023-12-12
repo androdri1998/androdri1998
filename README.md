@@ -8,7 +8,7 @@ I work since websites development and web systems, API, control version, ship in
 
 Soft skills: English Fluency, autonomy, good communication, team work, share knowledge, Problem Solving, Self Learning, Time Management, dedicated, committed, Emotional intelligence and hardworking.
 
-Hard skills: 
+Hard skills:  
 Programming Languages, JavaScript (JS), TypeScript, PHP Language, PHP5 and Go lang.  
 Databases, database Mysql, MariaDB, SQL, PostgreSQL and Database Design.  
 Code quality, code review, unit tests, integration tests, A/B tests, Feature Flag, Design Patterns, Jira, Git, Git Flow, SOLID principles and Clean Code.  
