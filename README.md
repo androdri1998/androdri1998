@@ -9,19 +9,19 @@ I have experience working to companies of different working areas such as Educat
 I have knowledge in fundamentals of programming and on programming languages such as Javascript(main), TypeScript(main), PHP(prior experienced), Go lang(beginner), Python(beginner), I have ease to learn new programming languages, technologies and frameworks.  
   
 ### Back-end skills(main):  
-Node.js, express, fastify, Larave, Nest.js, System Design, Database Design, REST API, Monolith, Micro services and Event-Driven Architectures, Message Brokers, SQS, RabbitMQ, Object Oriented Programming(OOP), Data Structures, Algorithms, SQL, ORMs, relational databases(Mysql, MariaDB, SQL, PostgreSQL) and non relational databases(DynamoDB).  
+- Node.js, express, fastify, Larave, Nest.js, System Design, Database Design, REST API, Monolith, Micro services and Event-Driven Architectures, Message Brokers, SQS, RabbitMQ, Object Oriented Programming(OOP), Data Structures, Algorithms, SQL, ORMs, relational databases(Mysql, MariaDB, SQL, PostgreSQL) and non relational databases(DynamoDB).  
   
 ### Front-end skills(prior experienced):  
-I have Intermediate-Advanced knowledge about React.js, Vue.js, Next.js(SSR), React Native, Svelte and Angular.js.  
+- I have Intermediate-Advanced knowledge about React.js, Vue.js, Next.js(SSR), React Native, Svelte and Angular.js.  
   
 ### Quality Code skills:  
-Unit Tests, Integration Tests, SOLID Principles, Clean Code, Monitoring and Design Patterns.  
+- Unit Tests, Integration Tests, SOLID Principles, Clean Code, Monitoring and Design Patterns.  
   
 ### DevOps skills:  
-CI/CD environments, Docker, Creation of pipelines, Github Actions, Jenkins, Git, Git Flow, deployment strategies, Feature Toggle, Canary Deploy, A/B Testing, Cloud environments, AWS, IaC, Serverless framework and CI/CD Pipelines.  
+- CI/CD environments, Docker, Creation of pipelines, Github Actions, Jenkins, Git, Git Flow, deployment strategies, Feature Toggle, Canary Deploy, A/B Testing, Cloud environments, AWS, IaC, Serverless framework and CI/CD Pipelines.  
   
 ### Soft Skills:  
-English Fluency, Communication, Proactivity, Team Work, To share knowledge, Problem Solver, Self learner, Dedicated, Committed, Emotional Intelligence.  
+- English Fluency, Communication, Proactivity, Team Work, To share knowledge, Problem Solver, Self learner, Dedicated, Committed, Emotional Intelligence.  
   
 ### Planning Skills:  
 - I have good communication.  
